@@ -9,7 +9,7 @@ From time to time, I have been asked what it takes to be a self-taught software 
 
 ## Skillsets
 - [Web Development](web_development.md)
-- Web Design
+- [Web Design](web_design.md)
 - [Content Management Systems](content-management-systems.md)
 - [Database Driven Application Development](database-applications.md)
 - [Client-only Application Software Development](client-applications.md)
