@@ -1,3 +1,14 @@
+# Web Design
+*work in progress*
+## Focus Areas
+- Color
+- Layout
+- Alignment
+- Balance
+- Contrast
+- Information Architecture
+- Visual Heirarchy
+
 Companies that do this:
 - http://carrot.is/creative
 - http://crushlovely.com/
